@@ -50,7 +50,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/5eb4f40b-c8ce-49f3-9312-57788747c342)
+<img width="717" height="473" alt="image" src="https://github.com/user-attachments/assets/244de902-cdec-4e9f-b5dc-eb3e88fcff49" />
 
 #### ii) Using Weighted Averaging Filter
 ```
@@ -62,7 +62,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/2bd78862-7669-475c-ab5d-e6a4e7ae4ec8)
+<img width="531" height="348" alt="image" src="https://github.com/user-attachments/assets/073977d9-4427-4870-b590-6f2feaee60a5" />
 
 #### iii) Using Gaussian Filter
 ```
@@ -73,7 +73,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/90ccc8ce-2620-4aab-890c-4eb82828ab58)
+<img width="515" height="348" alt="image" src="https://github.com/user-attachments/assets/07cdabd9-7fdc-4632-92df-28d878d2822e" />
 
 #### iv)Using Median Filter
 ```
@@ -83,7 +83,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/ae06969d-dbac-44b3-b9bc-c93f6be9c13a)
+<img width="717" height="473" alt="image" src="https://github.com/user-attachments/assets/375579b7-9f5f-4cca-9fed-9af7f8841d61" />
 
 ### 2. Sharpening Filters
 
@@ -97,7 +97,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/2ce99d44-36c3-4413-89af-ed9ff7795a98)
+<img width="515" height="348" alt="image" src="https://github.com/user-attachments/assets/c0227e66-8feb-4550-9822-ff179e48103d" />
 
 #### ii) Using Laplacian Operator
 ```
@@ -108,7 +108,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/7a798e79-8215-4b30-ba9d-628cd71c650e)
+<img width="515" height="348" alt="image" src="https://github.com/user-attachments/assets/2d1cccb4-43eb-49c2-a8e1-86fdc81fd335" />
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
